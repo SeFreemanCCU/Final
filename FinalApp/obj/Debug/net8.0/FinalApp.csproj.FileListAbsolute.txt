@@ -12,3 +12,4 @@ c:\Users\Seth Freeman\OneDrive\School\2024.SPR\CIS-230-01\Final\FinalApp\obj\Deb
 c:\Users\Seth Freeman\OneDrive\School\2024.SPR\CIS-230-01\Final\FinalApp\obj\Debug\net8.0\FinalApp.pdb
 c:\Users\Seth Freeman\OneDrive\School\2024.SPR\CIS-230-01\Final\FinalApp\obj\Debug\net8.0\FinalApp.genruntimeconfig.cache
 c:\Users\Seth Freeman\OneDrive\School\2024.SPR\CIS-230-01\Final\FinalApp\obj\Debug\net8.0\ref\FinalApp.dll
+c:\Users\Seth Freeman\OneDrive\School\2024.SPR\CIS-230-01\Final\FinalApp\obj\Debug\net8.0\FinalApp.sourcelink.json
